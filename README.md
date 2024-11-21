@@ -90,7 +90,7 @@ Alex-CCN@github:~$ sudo echo "* * * * * /usr/local/bin/catchbugs" >> /tmp/cronta
 <center>
 
 | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![C#](https://img.shields.io/badge/C%23-9cf?style=plastic?labelColor=darkblue) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) | ![Node.JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) | ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=badge&logo=.net&logoColor=white) |
-|---|---|---|---|
+
 
 </center>
 
